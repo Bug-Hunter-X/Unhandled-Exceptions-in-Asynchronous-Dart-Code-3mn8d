@@ -1,0 +1,3 @@
+# Unhandled Exceptions in Asynchronous Dart Code
+
+This repository demonstrates a common error in Dart code involving unhandled exceptions during asynchronous operations and provides a solution.  The `bug.dart` file shows the problematic code, while `bugSolution.dart` offers a more robust approach. The primary issue is the lack of comprehensive exception handling in asynchronous tasks, potentially leading to crashes or unexpected behavior.
